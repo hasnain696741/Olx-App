@@ -1,0 +1,1087 @@
+.nav1{
+    
+    display: inline; 
+    position: relative;
+ left: 120px; 
+
+}
+#search{
+position: relative;
+left: 40px;
+ top: 0px; 
+width: 20px;
+/* z-index: 99999; */
+border: 1px dashed whitesmoke;
+background-color: whitesmoke;
+}
+
+.nav1:hover{
+color: blue;
+cursor: pointer;
+}
+.parrents{
+    position:fixed;
+ border: 1px solid white;
+     width: 100%;
+     height: 130px;
+background-color: whitesmoke ;
+top: 0px;
+bottom: 0px;
+z-index: 999999;
+}
+.bluolx{
+    position: relative;
+ left: 40px; 
+
+}
+.carpng{
+position: absolute;
+left: 180px; 
+width: 20px; 
+ height: 20px; 
+ top: 9px; 
+
+}
+.propertyicon{
+    position: absolute;
+left: 290px;
+width: 20px;
+height: 20px;
+top: 9px;
+
+}
+.blackolx{
+    position: relative;
+left: 40px;
+
+}
+.allcaterogries{
+     font-weight: bold; 
+   
+}
+
+.dropdown{
+width: 40px;
+height: 30px;
+position: relative;
+right: 745px;
+
+}
+
+
+.allhouse:hover{
+    color:gray;
+    cursor: pointer;
+    
+    
+}
+.alltablets:hover{
+    color:gray;
+    cursor: pointer;
+    
+    
+}
+.alllands:hover{
+    color: gray;
+    cursor: pointer;
+    
+  
+}
+.alltv:hover{
+    color: gray;
+    cursor: pointer;
+       
+}
+
+ #select{
+    
+    height: 40px;
+    width: 300px;
+    border: 2px solid black;
+    position: relative;
+    left: 80px;
+ padding-right: 40px;
+ cursor: pointer;
+} 
+#searchmain{
+    position: relative;
+    left: 60px;
+    width: 670px;
+height: 40px;
+border: 2px solid black;
+background-image: url("https://www.bing.com/th?id=OIP.YC72S8MaYvnr1SPZf8nzaQHaHa&w=250&h=250&c=8&rs=1&qlt=90&o=6&dpr=1.4&pid=3.1&rm=2");
+background-size: 35px;
+background-repeat: no-repeat;
+background-position: right;
+padding-right: 33px;
+
+}
+.Loginn{
+    color: black;
+    position: relative;
+    left: 60px;
+   
+}
+.sell{
+width: 110px;
+height:80px ;
+position: relative;
+left: 70px;
+
+}
+.plus{
+    position: relative;
+    right: 20px;
+    
+}
+.pasell{
+position: relative;
+left: 1280px;
+font-weight: bold;
+bottom: 52px;
+
+}
+.headman{
+position: relative;
+left: 40px;
+top: 10px;
+}
+
+.imgg1{
+    position: relative;
+left: 40px;
+width: 300px;
+height: 190px;
+bottom: 30px;
+
+}
+.para1{
+    border: 1px solid black;
+width: 300px;
+height: 100px;
+position: relative;
+left: 40px;
+bottom: 30px;
+
+}
+.head1{
+    position: relative;
+    bottom: 110px;
+    left: 50px;
+}
+.imgg2{
+    position: relative;
+left: 360px;
+width: 300px;
+height: 190px;
+bottom: 400px;
+}
+.head2{
+    position: relative;
+   
+    left: 370px;
+bottom: 465px;
+}
+    .para2{
+        border: 1px solid black;
+    width: 300px;
+    height: 100px;
+    position: relative;
+    left: 360px;
+    bottom: 400px;
+    }
+
+    .imgg3{
+        position: relative;
+    left: 680px;
+    width: 300px;
+    height: 190px;
+    bottom: 770px;
+    }
+    .head3{
+        position: relative;
+        bottom: 840px;
+        left: 700px;
+    
+    }
+        .para3{
+            border: 1px solid black;
+        width: 300px;
+        height: 100px;
+        position: relative;
+left: 680px;
+bottom: 770px;
+        }
+
+        .imgg4{
+            position: relative;
+        left: 1000px;
+        width: 300px;
+        height: 190px;
+        bottom: 1140px;
+        }
+        .head4{
+            position: relative;
+            bottom: 1210px;
+            left: 1050px;
+        
+        }
+            .para4{
+                border: 1px solid black;
+            width: 300px;
+            height: 100px;
+            position: relative;
+    left: 1000px;
+    bottom: 1140px;
+            }
+    
+            .imgg5{
+                position: relative;
+            left: 35px;
+            width: 313px;
+            height: 190px;
+            bottom: 1250px;
+             
+            }
+            .para5{
+                border: 1px solid black;
+            width: 297px;
+            height: 100px;
+            position: relative;
+            left: 42px;
+            bottom: 1255px;
+            
+            }
+            .head5{
+                position: relative;
+                bottom: 80px;
+                left: 50px;
+                bottom: 1325px;
+             
+            }
+             /* .imgg6{
+                position: relative;
+            left: 360px;
+            width: 100px;
+            height: 190px;
+            bottom: 1585px;
+            
+            }
+            .head6{
+                position: relative;
+                
+                left: 370px;
+            bottom: 1655px;
+            }
+                .para6{
+                    border: 1px solid black;
+                width: 100px;
+                height: 100px;
+                position: relative;
+                left: 370px;
+                bottom: 1585px;
+                 }  */
+             .textpara{
+                border: 2px solid black;
+                position: relative;
+left: 40px;
+width: 300px;
+              text-align: center;
+              background-color: #3a77ff ;
+color: white;
+              height: 280px;
+            bottom: 1615px;
+                left: 360px;
+
+            }
+#textpara{
+    background-color: #3a77ff;
+    color: white;
+    border: 2px solid white ;
+width: 230px;
+height: 60px;
+position: relative;
+top: 40px;
+}
+
+
+                .imgg7{
+                    position: relative;
+                left: 680px;
+                width: 300px;
+                height: 190px !important;
+                bottom: 1910px; 
+              
+                }
+                .head7{
+                    position: relative;
+                    bottom: 2000px;
+                    left: 700px;
+                
+                }
+                    .para7{
+                        border: 1px solid black;
+                    width: 300px;
+                    height: 90px;
+                    position: relative;
+            left: 680px;
+             bottom: 1910px; 
+            
+                    }
+            
+                    .imgg8{
+                        position: relative;
+                    left: 1000px;
+                    width: 300px;
+                    height: 190px;
+                    bottom: 2270px;
+                    }
+                    .head8{
+                        position: relative;
+                        bottom: 2360px;
+                        left: 1010px;
+                    
+                    }
+                        .para8{
+                            border: 1px solid black;
+                        width: 300px;
+                        height: 90px;
+                        position: relative;
+                left: 1000px;
+                bottom: 2270px;
+                
+                        }
+                
+                        .imgg9{
+                            position: relative;
+                        left: 40px;
+                        width: 300px;
+                        height: 190px;
+                        bottom: 2375px;
+                        }
+                        .para9{
+                            border: 1px solid black;
+                        width: 300px;
+                        height: 100px;
+                        position: relative;
+                        left: 40px;
+                        bottom: 2375px;
+                        }
+                        .head9{
+                            position: relative;
+                            bottom: 2450px;
+                            left: 50px;
+                        }
+                        .imgg10{
+                            position: relative;
+                        left: 360px;
+                        width: 300px;
+                        height: 190px;
+                        bottom: 2743px;
+                        }
+                        .head10{
+                            position: relative;
+                           
+                            left: 370px;
+                        bottom: 2820px;
+                        }
+                            .para10{
+                                border: 1px solid black;
+                            width: 300px;
+                            height: 100px;
+                            position: relative;
+                            left: 360px;
+                            bottom: 2743px;
+                            }
+                        
+                            .imgg11{
+                                position: relative;
+                            left: 680px;
+                            width: 300px;
+                            height: 190px;
+                            bottom: 3113px;
+                            }
+                            .head11{
+                                position: relative;
+                                bottom: 3190px;
+                                left: 700px;
+                            
+                            }
+                                .para11{
+                                    border: 1px solid black;
+                                width: 300px;
+                                height: 100px;
+                                position: relative;
+                        left: 680px;
+                        bottom: 3113px;
+                                }
+                        
+                                .imgg12{
+                                    position: relative;
+                                left: 1000px;
+                                width: 300px;
+                                height: 190px;
+                                bottom: 3483px;
+                                }
+                                .head12{
+                                    position: relative;
+                                    bottom: 3555px;
+                                    left: 1040px;
+                                
+                                }
+                                    .para12{
+                                        border: 1px solid black;
+                                    width: 300px;
+                                    height: 100px;
+                                    position: relative;
+                            left: 1000px;
+                            bottom: 3483px;
+                                    }
+                            
+                                    .imgg13{
+                                        position: relative;
+                                    left: 40px;
+                                    width: 300px;
+                                    height: 190px;
+                                    bottom: 3590px;
+                                    }
+                                    .para13{
+                                        border: 1px solid black;
+                                    width: 300px;
+                                    height: 100px;
+                                    position: relative;
+                                    left: 40px;
+                                    bottom: 3590px;
+                                    }
+                                    .head13{
+                                        position: relative;
+                                        bottom: 80px;
+                                        left: 50px;
+                                        bottom: 3650px;
+                                    }
+                                    .imgg14{
+                                        position: relative;
+                                    left: 360px;
+                                    width: 300px;
+                                    height: 190px;
+                                    bottom: 3960px;
+                        
+                                    }
+                                    .head14{
+                                        position: relative;
+                                        
+                                        left: 370px;
+                                    bottom: 4030px;
+                                    }
+                                        .para14{
+                                            border: 1px solid black;
+                                        width: 300px;
+                                        height: 100px;
+                                        position: relative;
+                                        left: 360px;
+                                        bottom: 3960px;
+                                        }
+                                    
+                                        .imgg15{
+                                            position: relative;
+                                        left: 680px;
+                                        width: 300px;
+                                        height: 190px;
+                                        bottom: 4330px;
+                                        }
+                                        .head15{
+                                            position: relative;
+                                            bottom: 4400px;
+                                            left: 700px;
+                                        
+                                        }
+                                            .para15{
+                                                border: 1px solid black;
+                                            width: 300px;
+                                            height: 100px;
+                                            position: relative;
+                                    left: 680px;
+                                    bottom: 4330px;
+                                            }
+                                    
+                                            .imgg16{
+                                                position: relative;
+                                            left: 1000px;
+                                            width: 300px;
+                                            height: 190px;
+                                            bottom: 4700px;
+                                            }
+                                            .head16{
+                                                position: relative;
+                                                bottom: 4780px;
+                                                left: 1020px;
+                                            
+                                            }
+      .para16{
+      border: 1px solid black;
+   width: 300px;
+    height: 100px;
+    position: relative;
+   left: 1000px;
+  bottom: 4700px;
+    }
+                                        
+    .imgg17{
+        position: relative;
+     left: 40px;
+    width: 300px;
+    height: 190px;
+    bottom: 4800px;
+    }
+    .head17{
+        position: relative;
+        bottom: 4880px;
+        left: 50px;
+    
+    }
+.para17{
+border: 1px solid black;
+width: 300px;
+height: 100px;
+position: relative;
+left: 40px;
+bottom: 4800px;
+}
+.imgg18{
+    position: relative;
+left: 362px;
+width: 300px;
+height: 190px;
+bottom: 5170px;
+}
+.head18{
+    position: relative;
+    bottom: 5260px;
+    left: 372px;
+
+}
+.para18{
+border: 1px solid black;
+width: 300px;
+height: 100px;
+position: relative;
+left: 362px;
+bottom: 5170px;
+}
+.imgg19{
+    position: relative;
+left: 682px;
+width: 300px;
+height: 190px;
+bottom: 5540px;
+}
+.head19{
+    position: relative;
+    bottom: 5630px;
+    left: 692px;
+
+}
+.para19{
+border: 1px solid black;
+width: 300px;
+height: 100px;
+position: relative;
+left: 682px;
+bottom: 5540px;
+}
+.imgg20{
+    position: relative;
+left: 1000px;
+width: 300px;
+height: 190px;
+bottom: 5910px;
+}
+.head20{
+    position: relative;
+    bottom: 6000px;
+    left: 1020px;
+
+}
+.para20{
+border: 1px solid black;
+width: 300px;
+height: 100px;
+position: relative;
+left: 1000px;
+bottom: 5910px;
+}
+.imgg21{
+    position: relative;
+left: 40px;
+width: 300px;
+height: 190px;
+bottom: 5960px;
+}
+.head21{
+    position: relative;
+    bottom: 6030px;
+    left: 50px;
+
+}
+.para21{
+border: 1px solid black;
+width: 300px;
+height: 100px;
+position: relative;
+left: 40px;
+bottom: 5960px;
+}
+
+ .loadbtn{
+    position: relative;
+    bottom: 6050px;
+    height: 50px;
+    width: 100px;
+    border-radius: 5px;
+  } 
+  .imgend{
+    position: relative;
+bottom: 6000px;
+width: 500px;
+left: 40px;
+  }
+
+.loadbtn:hover{
+    background-color: black;
+    color: white;
+}
+
+.lasth1{
+    position: relative;
+bottom: 6228px;
+left: 550px;
+font-size: xx-large;
+/* background-color: whitesmoke;
+width: 355px;
+left: 500px;
+height: 50px; */
+}
+.lastpara{
+    position: relative;
+    bottom: 6200px;
+    left: 550px;
+     /* background-color: whitesmoke;
+    width: 355px;
+    height: 162px;
+    bottom: 6236px;
+    left: 500px; */ */
+}
+.lastbold{
+    position: relative;
+    bottom: 6270px;
+    left: 910px;
+/* background-color: whitesmoke; */
+   
+}
+
+
+.carousel{
+    position: relative !important;
+    top: 60px!important;
+   
+}
+.nav-menue :hover{
+color: #3a77ff;
+
+}
+.nav-menue{
+    position: relative;
+    top: 90px !important;
+}
+.threeimg{
+    position: relative;
+bottom: 6470px;
+left: 910px;
+
+}
+.appstore{
+    width: 130px;
+    height: 80px;
+    /* background-color: whitesmoke; */
+}
+.google{
+    width: 130px;
+    height: 80px;
+    /* background-color: whitesmoke; */
+}
+.exploreit{
+    width: 130px;
+    height: 80px;
+    /* background-color: whitesmoke; */
+}
+
+/* .Lastfooter{
+    border: 2px solid black;
+   position: relative;
+   bottom: 6000px;
+
+
+} */
+
+.popular{
+  
+   position: relative;
+left: 40px;
+bottom: 6420px;
+cursor: pointer;
+/* color: gray; */
+
+}
+.popular :hover{
+color: blue;
+
+}
+.trending{
+    position: relative;
+left: 340px;
+bottom: 6558px;
+cursor: pointer;
+/* color: gray; */
+
+
+}
+.trending :hover{
+color: blue;
+
+}
+.about{
+    position: relative;
+    left: 640px;
+    bottom: 6693px;
+    cursor: pointer;
+/* color: gray; */
+    
+}
+.about :hover{
+color: blue;
+
+}
+.follow{
+    position: relative;
+    left: 1100px;
+    bottom: 6967px;
+    cursor: pointer;
+/* color: gray; */
+
+}
+.follow :hover{
+color: blue;
+
+}
+
+.olxx{
+    position: relative;
+    left: 870px;
+    bottom: 6830px;
+    cursor: pointer;
+/* color: gray; */
+}
+.olxx :hover{
+color:blue;
+
+}
+
+.fourimg{
+    position: relative;
+bottom: 6985px;
+left: 1110px;
+
+}
+.imgthree{
+    position: relative;
+left: 960px;
+bottom: 6950px;
+
+}
+.appstore2{
+width: 70px;
+height: 50px;
+
+}
+.google2{
+    width: 70px;
+    height: 50px;
+
+}
+.exploreit2{
+    width: 70px;
+    height: 50px;
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ @media(max-width:450px){
+.bluolx{
+position: relative;
+left: 5px;
+}
+.blackolx{
+  display: none;
+
+}
+#seabar{
+position: relative;
+left: 0px;
+width: 335px;
+height: 30px;
+bottom: 40px;
+
+}
+#searchmain{
+ position: absolute;
+left: 13px;
+width: 335px;
+bottom: 60px;
+height: 40px;
+}
+/* .carpng{
+    position: relative;
+left: 40px;
+
+
+} */
+.nav-menue{
+  /* position: relative;
+link-seeall */
+display: none;
+}
+.imgg1{
+    width: 150px;
+    height: 100px;
+position: relative;
+top: 40px;
+
+
+}
+.para1{
+    width: 150px;
+    height: 100px;
+top: 40px;
+
+}
+.head1{
+    position: relative;
+   padding: 40px ;
+}
+.imgg2{
+    width: 150px;
+    height: 100px; 
+   position: relative;
+  
+right: 30px;
+
+
+}
+.para2{
+    width: 150px;
+    height: 100px;
+}
+
+.imgg3{
+    width: 150px;
+    height: 100px; 
+}
+.para3{
+    width: 150px;
+    height: 100px;
+}
+
+.imgg4{
+    width: 150px;
+    height: 100px; 
+}
+.para4{
+    width: 150px;
+    height: 100px;
+}
+
+.imgg5{
+    width: 150px;
+    height: 100px; 
+    position: relative;
+bottom: 1100px;
+left: 200px;
+
+}
+.para5{
+    width: 150px;
+    height: 100px;
+    position: relative;
+    bottom: 1100px;
+    left: 200px;
+}
+.head5{
+    position: relative;
+    bottom: 1170px;
+    left: 200px;
+}
+
+.imgg6{
+    width: 150px;
+    display: none;
+    height: 100px; 
+}
+.para6{
+    width: 150px;
+    height: 100px;
+    display: none;
+
+}
+
+
+.imgg7{
+    width: 150px;
+    height: 100px;
+    display: none;
+
+}
+.para7{
+    width: 150px;
+    height: 100px;
+    display: none;
+
+}
+.imgg8{
+    width: 150px;
+    height: 100px; 
+    display: none;
+
+}
+.para8{
+    width: 150px;
+    height: 100px;
+    display: none;
+
+}
+
+.imgg9{
+    width: 150px;
+    height: 100px; 
+    display: none;
+
+}
+.para9{
+    width: 150px;
+    height: 100px;
+    display: none;
+
+}
+
+.imgg10{
+    width: 150px;
+    height: 100px; 
+    display: none;
+
+}
+.para10{
+    width: 150px;
+    height: 100px;
+    display: none;
+
+}
+
+.imgg11{
+    width: 150px;
+    height: 100px; 
+    display: none;
+
+}
+.para11{
+    width: 150px;
+    height: 100px;
+    display: none;
+
+}
+
+.imgg12{
+    width: 150px;
+    height: 100px; 
+    display: none;
+
+}
+.para12{
+    width: 150px;
+    height: 100px;
+    display: none;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+} 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
